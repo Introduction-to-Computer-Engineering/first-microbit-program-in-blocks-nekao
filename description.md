@@ -1,1 +1,2 @@
-description
+# My Light Health game
+> light health game is a game with a led display. It is started by holding down the A button. The user will then start at one hundred health. The health is displayed and can decrease or increases, which is dependent on whether there is enough light. The user will have to keep in enough light to stay alive or face the consequence of death. If death does occur a scull will appear, in which user must Press B to restart.
